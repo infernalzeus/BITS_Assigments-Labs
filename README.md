@@ -1,1 +1,1 @@
-This repository contains individual Jupyter Notebooks, divided according to ML Tasks for reference purposes
+This repository serves as a comprehensive reference for various machine learning tasks. The content is organized into individual Jupyter Notebooks, each focusing on a specific machine learning task. If seeking for quick references, this repository provides valuable insights and code examples.
